@@ -138,7 +138,7 @@ croniter==5.0.1
     # via
     #   -c requirements/base.txt
     #   apache-superset
-cryptography==43.0.3
+cryptography==44.0.2
     # via
     #   -c requirements/base.txt
     #   apache-superset
@@ -632,7 +632,7 @@ pynacl==1.5.0
     # via
     #   -c requirements/base.txt
     #   paramiko
-pyopenssl==24.2.1
+pyopenssl==25.0.0
     # via
     #   -c requirements/base.txt
     #   shillelagh
@@ -848,6 +848,7 @@ typing-extensions==4.12.2
     #   flask-limiter
     #   limits
     #   referencing
+    #   pyopenssl
     #   rich
     #   selenium
     #   shillelagh
