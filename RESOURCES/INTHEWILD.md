@@ -201,6 +201,10 @@ Join our growing community!
 - [Agoda](https://www.agoda.com/) [@lostseaway, @maiake, @obombayo]
 - [Skyscanner](https://www.skyscanner.net/) [@cleslie, @stanhoucke]
 
+### Non Governmental Organisations (NGO's)
+
+- [Build Up](https://howtobuildup.org/) [@howtobuildup]
+
 ### Others
 
 - [10Web](https://10web.io/)
